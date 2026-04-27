@@ -1,16 +1,21 @@
 # WEEK 2 TASKS
 
+Video used for this task: 
+https://www.youtube.com/watch?v=MNn9qKG2UFI
+
+---
+
 ## Task 1 — Create Python Virtual Environment
 
 ```bash
 python3 -m venv yolo_env
-source yolo_env/bin/activate
+yolo_env/bin/activate
 ```
 
 ## Task 2 — Install Ultralytics
 
 ```bash
-pip install -U ultralytics
+pip install ultralytics
 ```
 
 ## Task 3 — Run YOLO Object Detection
@@ -23,7 +28,7 @@ from ultralytics import YOLO
 model = YOLO("yolo11n.pt")  # pretrained model
 
 results = model.predict(
-    source="Week1/frames_30fps",
+    source="week 1/frames1_30fps",
     save=True,
     conf=0.25
 )
