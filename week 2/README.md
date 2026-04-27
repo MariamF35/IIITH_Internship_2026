@@ -62,8 +62,8 @@ ffmpeg -i detected_video.mp4 -i trimmed_music1.mp3 -c:v copy -c:a aac detected_v
 Output:
 
 Detected video:
-![detected_video](stitched_video/detected_video.mp3)
+![detected_video](stitched_video/output.gif)
 
 
 Final detected video:
-![detected_video_with_audio](stitched_video/detected_video_with_audio.mp3)
+![detected_video_with_audio](stitched_video/output1.gif)
