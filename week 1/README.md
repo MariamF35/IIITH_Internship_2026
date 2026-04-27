@@ -26,10 +26,6 @@ Frames extracted successfully from the video.
 
 ### Sample Frames
 
-(Add 2–3 images from sample_output folder here)
-
-Example:
-
 ![Frame 1](frames/frame_0004.jpg)
 ![Frame 2](frames/frame_0013.jpg)
 ![Frame 3](frames/frame_0033.jpg)
