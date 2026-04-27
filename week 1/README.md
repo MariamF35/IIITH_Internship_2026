@@ -30,11 +30,9 @@ Frames extracted successfully from the video.
 
 Example:
 
-```md
-![Frame1](sample_output/frame_0001.jpg)
-![Frame2](sample_output/frame_0002.jpg)
-![Frame3](sample_output/frame_0003.jpg)
-```
+![Frame 1](frames/frame_0004.jpg)
+![Frame 2](frames/frame_0013.jpg)
+![Frame 3](frames/frame_0033.jpg)
 
 ---
 
