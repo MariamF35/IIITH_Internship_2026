@@ -1,6 +1,6 @@
 # IIITH_Internship_2026 – Computer Vision & YOLO Experiments
 
-This repository contains weekly work completed during my internship at **IIIT Hyderabad**.
+This repository contains weekly work completed during my internship at **IIIT Hyderabad** under **Dr. CK Raju**.
 The internship focuses on video processing, object detection, semantic segmentation, and creating custom datasets using YOLO.
 
 The work is organized week-by-week, showing the complete pipeline from **video → frames → detection → segmentation → custom dataset creation**.
