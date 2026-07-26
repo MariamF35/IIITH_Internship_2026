@@ -1,4 +1,4 @@
-# IIITH_Internship_2026 – Computer Vision & YOLO Experiments (March 2026 - May 2026)
+# IIITH_Internship_2026 – Computer Vision & YOLO Experiments (March 2026 - August 2026)
 
 This repository contains weekly work completed during my internship at **IIIT Hyderabad** under **Dr. CK Raju**.
 The internship focuses on video processing, object detection, semantic segmentation, and creating custom datasets using YOLO.
@@ -6,7 +6,7 @@ The internship focuses on video processing, object detection, semantic segmentat
 The work is organized week-by-week, showing the complete pipeline from **video → frames → detection → segmentation → custom dataset creation**.
 
 ---
-
+# Phase - 1
 ## Internship Objectives
 
 * Learn video processing using **FFmpeg**
@@ -73,6 +73,11 @@ By the end of this internship the repository contains:
 * YOLO dataset metadata
 * Custom labeled dataset
 
+---
+---
+# Phase - 2 (June 2026 - August 2026)
+
+Using Comfyui, we created images, videos, etc.
 ---
 
 ## Author
